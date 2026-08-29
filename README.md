@@ -27,17 +27,17 @@ practice with core Python fundamentals alongside the larger
 
 ## Multi-module exercises
 
-**`parcel-sorter/`** — reads a list of parcel weights, sorts them with a
+**`parcel-sorter/`** - reads a list of parcel weights, sorts them with a
 hand-written quicksort implementation, and reports the lightest.
 Split across `main.py`, `input_handling.py`, `sorting.py`, `display.py`,
 and `config.py` to practice separating input, logic, and output.
 
-**`word-reversal/`** — validates and reformats a sentence (reverses word
+**`word-reversal/`** - validates and reformats a sentence (reverses word
 order). Split across `P6.py`, `P6_user_input.py`,
 `P6_input_validation.py`, `P6_format_sentence.py`, and `P6_config.py`
 for the same reason.
 
-**`tkinter-registration-form/`** — three incremental steps building up a
+**`tkinter-registration-form/`** - three incremental steps building up a
 basic Tkinter GUI form: an empty window, then labeled input fields laid
 out with `.grid()`, then a submit button with basic email validation.
 Kept as separate numbered files to show the progression rather than
