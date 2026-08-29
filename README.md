@@ -17,7 +17,7 @@ practice with core Python fundamentals alongside the larger
 | `shopping_cart.py` | Lists of tuples, loops, running totals |
 | `volume_calc.py` | Functions with multiple parameters |
 | `math_helpers_module.py` | Writing a reusable module of functions |
-| `import_and_use_module.py` | Importing and using functions from math_helpers_module.py |
+| `import_and_use_module.py` | Importing and using functions from `math_helpers_module.py` |
 | `calc_compound_interest.py` | Basic arithmetic / formulas in code |
 | `password_validator_tests.py` | Writing test cases before/alongside a function |
 | `contestant_intro_cards.py` | Loops, lists of dictionaries, formatted string output |
