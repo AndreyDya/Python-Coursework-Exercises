@@ -5,7 +5,7 @@ coursework (De Montfort University Kazakhstan, Computing Pathway).
 
 These are short, individually simple scripts practicing one concept each,
 plus three slightly larger exercises split across multiple linked modules
-— not standalone projects. Included here to show ongoing, hands-on
+(not standalone projects). Included here to show ongoing, hands-on
 practice with core Python fundamentals alongside the larger
 [Auth Log Analyzer](https://github.com/AndreyDya/Auth-log-analyzer) project.
 
